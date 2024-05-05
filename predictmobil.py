@@ -1,4 +1,5 @@
 import pickle
+import numpy as np
 import streamlit as st
 
 # Memuat model dari file model.pkl
